@@ -14,6 +14,7 @@ https://github.com/Lou-uo/Lou-uo/blob/main/image/%E6%96%87%E7%94%9F%E5%9B%BE.png
 - C/C++基础语法
 - 排序、贪心、搜索、DP等基础算法
 - 《蓝桥杯省三》
+https://github.com/Lou-uo/Lou-uo/blob/main/image/%E8%93%9D%E6%A1%A5%E6%9D%AF.png
 
 ### 2025.06-2025.07  强化学习入门
 - MAB算法学习与复现
