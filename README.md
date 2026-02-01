@@ -1,18 +1,18 @@
 ## Hi there 👋
 
-<!--
-**Lou-uo/Lou-uo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+你好我叫刘锐，现在是一名大二在校生。很高兴你能来我的github主页来了解我！
 
-Here are some ideas to get you started:
+- 🔭 I’m currently studying at **_Northeastern University_**.
+- 🌱 I’m currently learning **_the Internet of Things engineering_**.
+- 📫 How to reach me:
+  -   ☎13739092955
+  -  💬L13739092955
+  -  🐧3172621098
+  -  📩liurui@mails.neu.edu.cn / 3172621098@qq.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
+</picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lou-uo)
