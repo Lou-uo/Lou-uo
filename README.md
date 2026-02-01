@@ -10,6 +10,7 @@
   -  🐧3172621098
   -  📩liurui@mails.neu.edu.cn / 3172621098@qq.com
 - 🏆 My Awards:[  Lou-uo/Award-List.md](https://github.com/Lou-uo/Lou-uo/blob/main/Award-List.md)
+- 🎓 Academic Research:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
