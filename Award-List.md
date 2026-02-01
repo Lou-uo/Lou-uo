@@ -6,4 +6,5 @@ _证书还没发_ 😑
 _证书还没发_ 😑
 
 ### 第十六届蓝桥杯软件赛A组
-- 河北赛区省级三等奖
+- 河北赛区省级三等奖  \
+https://github.com/Lou-uo/Lou-uo/blob/main/image/%E8%93%9D%E6%A1%A5%E6%9D%AF.png
