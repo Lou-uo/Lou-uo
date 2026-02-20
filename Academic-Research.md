@@ -4,7 +4,7 @@
 - Pwn + 基础逆向
 - Crypto（RSA）
 
-### 2024.11-2024.12（大一上）  AIGC项目
+### 2024.10-2024.12（大一上）  AIGC项目
 - 阿里云魔搭社区平台
 - Stable Diffusion的模型搭建与训练
 https://www.modelscope.cn/models/L13739092955/LoRA-pixel2
@@ -30,5 +30,5 @@ https://hrl.boyuai.com/chapter/1/%E9%A9%AC%E5%B0%94%E5%8F%AF%E5%A4%AB%E5%86%B3%E
 - Dictionary-based Federated Time Series Classification（基于字典的联邦的时序分类）
 - 后续: 目前是给研一的了
 
-### 2026.01-至今  ESN + Anomaly Detection
+### 2025.12-至今  ESN + Anomaly Detection
 - 还在做……
