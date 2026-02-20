@@ -7,6 +7,7 @@
 ### 2024.11-2024.12（大一上）  AIGC项目
 - 阿里云魔搭社区平台
 - Stable Diffusion的模型搭建与训练
+https://www.modelscope.cn/models/L13739092955/LoRA-pixel2
 - 实战训练营《团队二等奖》
 https://github.com/Lou-uo/Lou-uo/blob/main/image/%E6%96%87%E7%94%9F%E5%9B%BE.png
 
