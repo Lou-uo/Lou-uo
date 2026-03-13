@@ -8,7 +8,7 @@
   -   ☎13739092955
   -  💬L13739092955
   -  🐧3172621098
-  -  📩liurui@mails.neu.edu.cn / 3172621098@qq.com
+  -  📩liurui@mails.neu.edu.cn
 - 🏆 My Awards：[Here](https://github.com/Lou-uo/Lou-uo/blob/main/Award-List.md)
 - 🎓 Academic Research：[Here](https://github.com/Lou-uo/Lou-uo/blob/main/Academic-Research.md)
 
