@@ -9,8 +9,8 @@
   -  💬L13739092955
   -  🐧3172621098
   -  📩liurui@mails.neu.edu.cn / 3172621098@qq.com
-- 🏆 My Awards:[Here](https://github.com/Lou-uo/Lou-uo/blob/main/Award-List.md)
-- 🎓 Academic Research:[Here](https://github.com/Lou-uo/Lou-uo/blob/main/Academic-Research.md)
+- 🏆 My Awards：[Here](https://github.com/Lou-uo/Lou-uo/blob/main/Award-List.md)
+- 🎓 Academic Research：[Here](https://github.com/Lou-uo/Lou-uo/blob/main/Academic-Research.md)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
