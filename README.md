@@ -1,14 +1,15 @@
 ## Hi there 👋
 
-你好我叫刘锐，现在是一名大二在校生。很高兴你能来我的github主页来了解我！
+你好我叫刘锐，现在是一名24级在校生。很高兴你能来我的github主页来了解我！
 
-- 🔭 I’m currently studying at **_Northeastern University_**.
-- 🌱 I’m currently learning **_the Internet of Things engineering_**.
+- 🔭 I’m studying at **_Northeastern University_**.
+- 📚 I’m majoring in **_Internet of Things Engineering_**.
+- 🌱 I’m learning **_Agent Optimization_**.
 - 📫 How to reach me:
-  -   ☎13739092955
-  -  💬L13739092955
-  -  🐧3172621098
-  -  📩liurui@mails.neu.edu.cn
+  -  ☎️ 13739092955
+  -  💬 VX: L13739092955
+  -  🐧 QQ: 3172621098
+  -  📩 liurui@mails.neu.edu.cn / rliu0440@gmail.com
 - 🏆 My Awards：[Here](https://github.com/Lou-uo/Lou-uo/blob/main/Award-List.md)
 - 🎓 Academic Research：[Here](https://github.com/Lou-uo/Lou-uo/blob/main/Academic-Research.md)
 
