@@ -13,10 +13,10 @@
 - 🏆 My Awards：[Here](https://github.com/Lou-uo/Lou-uo/blob/main/Award-List.md)
 - 🎓 Academic Research：[Here](https://github.com/Lou-uo/Lou-uo/blob/main/Academic-Research.md)
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
-</picture>
+</picture> -->
 
 
