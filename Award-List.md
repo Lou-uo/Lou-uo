@@ -9,3 +9,6 @@
 
 ### 2026团体程序设计天梯赛
 - [国家级三等奖](https://github.com/Lou-uo/Lou-uo/blob/main/image/CCCC2026GPLT08001_个人三等奖_东北大学秦皇岛分校_NEUQ05_刘锐.pdf)
+
+### 2026睿抗机器人开发者大赛(RAICOM)"智海算法调优竞赛项目
+- [国家级二等奖]()
