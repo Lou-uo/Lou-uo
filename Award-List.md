@@ -11,5 +11,5 @@
 - [国家级三等奖](https://github.com/Lou-uo/Lou-uo/blob/main/image/CCCC2026GPLT08001_个人三等奖_东北大学秦皇岛分校_NEUQ05_刘锐.pdf)
 
 ### 2026睿抗机器人开发者大赛(RAICOM)"智海算法调优竞赛项目
-- [国家级二等奖]()
+- [国家级二等奖](https://github.com/Lou-uo/Lou-uo/blob/main/image/RAICOM%E5%9B%BD%E4%BA%8C.jpg)
 - [项目地址](https://github.com/Lou-uo/RAICOM-2026)
