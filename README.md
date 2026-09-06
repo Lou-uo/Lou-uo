@@ -34,7 +34,7 @@
 
 #### Development Tools
 
-![](https://img.shields.io/badge/gnu%20bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=FFFFFF&color=4EAA25)![](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=FFFFFF&color=000000)![](https://img.shields.io/badge/obsidian-%237C3AED?style=for-the-badge&logo=obsidian&logoColor=FFFFFF&color=%237C3AED)![](https://img.shields.io/badge/git-%23F03C2E?style=for-the-badge&logo=git&logoColor=FFFFFF&color=%23F03C2E)
+![](https://img.shields.io/badge/gnu%20bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=FFFFFF&color=4EAA25)![](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=FFFFFF&color=000000)![](https://img.shields.io/badge/obsidian-%237C3AED?style=for-the-badge&logo=obsidian&logoColor=FFFFFF&color=%237C3AED)![](https://img.shields.io/badge/git-%23F03C2E?style=for-the-badge&logo=git&logoColor=FFFFFF&color=%23F03C2E)![](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF&color=%232496ED)
 
 #### Frameworks / Platforms
 
