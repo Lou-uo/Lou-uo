@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-你好我叫刘锐，现在是一名24级在校生。很高兴你能来我的github主页来了解我！
+你好我叫刘锐，现在是一名24级在校生。很高兴你能来我的[个人博客](https://www.atpoint.top/)来了解我！
 
 - 🔭 I’m studying at **_Northeastern University_**.
 - 📚 I’m majoring in **_Internet of Things Engineering_**.
